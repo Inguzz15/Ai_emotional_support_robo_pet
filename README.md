@@ -7,8 +7,10 @@ A demo of the full project can be accessed from here:
 ( https://drive.google.com/file/d/1FnwWPSXHzi7rCoXaV0opLWXlrMwUElk6/view?usp=drivesdk )
 
 """
+
 The assistant is able to:
 * recognize and synthesize speech in offline mode (without access to the Internet);
+* recognize your face and your emotions from your facial expressions
 * report on the weather forecast anywhere in the world;
 * make a search query in the Google search engine
   (as well as open the list of results and the results of this query);
