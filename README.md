@@ -1,4 +1,7 @@
 # Ai_emotional_support_robo_pet
+
+https://github.com/Inguzz15/Ai_emotional_support_robo_pet/assets/107085915/12769981-4e43-4e31-b5ba-debdcc99c1df
+
 """
 The assistant is able to:
 * recognize and synthesize speech in offline mode (without access to the Internet);
@@ -9,11 +12,8 @@ search for a video in the YouTube system and open a list of the results of this 
 * search for the definition in Wikipedia with further reading of the first two sentences;
 * search for a person by name and surname in social networks VKontakte and Facebook;
 * "flip a coin";
-* translate from the target language into the user's native language (taking into account the peculiarities of speech reproduction);
-* play a random greeting;
 * play an accidental goodbye followed by the termination of the program;
 * change the settings of the language of speech recognition and synthesis;
-* TODO........
 
 The voice assistant uses the built-in features of the Windows 10 operating system for speech synthesis
 (i.e. votes vary by operating system). To do this, use the pyttsx3 library
@@ -40,7 +40,7 @@ To obtain weather forecast data, I used the OpenWeatherMap service, which requir
 You can get an API key and read the documentation after registration (there is a free plan) here:
 https://openweathermap.org/
 
-Commands for installing third-party libraries:
+Commands for installing libraries:
 pip install google
 pip install SpeechRecognition
 pip install pyttsx3
