@@ -2,6 +2,9 @@
 
 https://github.com/Inguzz15/Ai_emotional_support_robo_pet/assets/107085915/129ef35d-6732-41b1-95c5-cf3070d7a24a
 
+
+A demo of the full project can be accessed from here:
+( https://drive.google.com/file/d/1FnwWPSXHzi7rCoXaV0opLWXlrMwUElk6/view?usp=drivesdk )
 """
 The assistant is able to:
 * recognize and synthesize speech in offline mode (without access to the Internet);
