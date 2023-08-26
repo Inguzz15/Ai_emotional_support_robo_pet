@@ -1,6 +1,6 @@
 # Ai_emotional_support_robo_pet
 
-https://github.com/Inguzz15/Ai_emotional_support_robo_pet/assets/107085915/12769981-4e43-4e31-b5ba-debdcc99c1df
+https://github.com/Inguzz15/Ai_emotional_support_robo_pet/assets/107085915/129ef35d-6732-41b1-95c5-cf3070d7a24a
 
 """
 The assistant is able to:
